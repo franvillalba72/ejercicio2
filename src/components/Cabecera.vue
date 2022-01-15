@@ -2,7 +2,7 @@
     <header id="cabecera">
         <img alt="Logotipo de biciSHOP" src="../assets/bicishop-logo.png">
         <nav id="menu-principal">
-            <a href="#">Inicio</a>
+            <a href="#">Cambio opcion</a>
             <a href="#">Tienda</a>
             <a href="#">Equipo</a>
             <a href="#">Salidas</a>
